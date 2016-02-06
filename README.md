@@ -2,9 +2,9 @@ Set Up
 ------
 This guide is designed to be used as a quick tutorial on Git for those new to it or anyone who just needs a refresher.  We'll cover the basics of committing, branches, and pull requests.
 
-First, if you don't have a GitHub account yet, go to github.com and sign up for an account.  Once you're done, visit github.com/kevinzhang96/git-demo, and hit "Fork" on the top right.  This creates a copy of this repository for your own use; you'll be able to pull updates from this repository while making changes to your own copy.  Once you're done, visit your own copy.
+First, if you don't have a GitHub account yet, go to https://github.com and sign up for an account.  Once you're done, visit https://github.com/kevinzhang96/git-demo, and hit "Fork" on the top right.  This creates a copy of this repository for your own use; you'll be able to pull updates from this repository while making changes to your own copy.  Once you're done, visit your own copy.
 
-If you haven't installed `git` yet, you can find downloads at git-scm.com/downloads.  If you install GitHub's native client at desktop.github.com, `git` will automatically be installed.  
+If you haven't installed `git` yet, you can find downloads at git-scm.com/downloads.  If you install GitHub's native client at https://desktop.github.com, `git` will automatically be installed.  
 
 SSH Keys
 --------
@@ -30,6 +30,6 @@ Pull Requests
 -------------
 The last thing we'll cover is pull requests.  Pull requests are designed to allow you to contribute to repositories that you don't have write access to, while providing a buffer so that the owners of the original repository can review any changes you make before integrating them into the main codebase.
 
-Revisit github.com/kevinzhang96/git-demo.  You should see a "New pull request" button on the screen; hit it.  On the new page, hit "compare across forks" - this allows you to integrate changes from separate copies of the original repository into the original.  On the right, select your copy of the repository along with the master branch; on the left, select the original copy (kevinzhang96/git-demo) and the master branch.  Once you've done that, hit "Create pull request"; you should be done!  
+Revisit https://github.com/kevinzhang96/git-demo.  You should see a "New pull request" button on the screen; hit it.  On the new page, hit "compare across forks" - this allows you to integrate changes from separate copies of the original repository into the original.  On the right, select your copy of the repository along with the master branch; on the left, select the original copy (kevinzhang96/git-demo) and the master branch.  Once you've done that, hit "Create pull request"; you should be done!  
 
 I can now view your changes and integrate them into my repository; if everyone's done everything correctly, the original repository will eventually contain a lot of text files, with one for each member of the class.  You can revisit this repository afterwards to see a list of your classmates' names, along with any other files people have created.  Congrats; you're now acquainted with almost all features of `git` you'll ever need!
