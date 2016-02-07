@@ -1,0 +1,1 @@
+My programming experience consists of what I learned in CS50 last fall as well as some experience with python for scientific computing and javascript/node for web development.
